@@ -1,0 +1,10 @@
+.pointer:hover {
+    cursor: pointer;
+}
+
+.categorydim {
+    height: 179px;
+    width: 202px;
+    overflow-y: scroll;
+    z-index: 1;
+}
